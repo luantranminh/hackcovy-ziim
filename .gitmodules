@@ -1,3 +1,6 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:luantranminh/hackcovy-ziim-api.git
+[submodule "web"]
+	path = web
+	url = git@github.com:danghung97/ziim-hackcovy-client.git
